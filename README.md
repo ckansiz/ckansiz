@@ -9,7 +9,8 @@
   - [ElasticSearch](https://www.elastic.co/)
   - [DevExpress](https://www.devexpress.com/)
   - Android Development
-- 🌱 I’m currently learning
-  - [Angular](https://angular.io/)
-  - [Ngrx](https://ngrx.io/)
-  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/)
+  - [RabbitMQ](https://www.rabbitmq.com/)
+- 🌱 I’m currently improving these skills
+  - [React](https://reactjs.org/)
+  - [React Native](https://reactnative.dev/)
+  - [MongoDb](https://www.mongodb.com/)
