@@ -1,5 +1,4 @@
 ### Hi there 👋
-- I'm currently working in [Güral Porselen](https://www.guralporselen.com.tr/)
 - 🔭 I’m currently working on 
   - [dotnet/aspnetcode](https://github.com/dotnet/aspnetcore)
   - [Abp](https://abp.io/)
